@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Hattab  
-- 👀 I’m interested in pentration testing, programming, and cloud devlopment.
-- 🌱 I’m currently learning Golang.
+- 👀 I’m interested in penetration testing, programming, and cloud computing.
+- 🌱 I’m passionate about learning new technology.
 
 
 <!---
