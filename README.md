@@ -8,6 +8,7 @@
 ![C#](https://img.shields.io/badge/-C%23-555?style=flat&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/-.NET-555?style=flat&logo=.net)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 
