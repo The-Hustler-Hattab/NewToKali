@@ -3,15 +3,21 @@
 > <b>I am passionate about cybersecurity and dedicated to expanding my knowledge through relentless hours of learning. I'm an extremely driven, disciplined, and hardworking individual who is eager to learn and improve in the vast world of IT. I take classes on Udemy during my spare time on a range of topics such as ethical hacking, programming, and professional certifications. I am a competitive person who enjoys the intellectual challenge of overcoming obstacles through creative means.</b>
 
 ## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-555?style=flat&logo=SpringBoot)
+![C#](https://img.shields.io/badge/-C%23-555?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/-.NET-555?style=flat&logo=.net)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-555?style=flat&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)
-![C#](https://img.shields.io/badge/-C#-555?style=flat&logo=C#)
+![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux)
 
 
 
