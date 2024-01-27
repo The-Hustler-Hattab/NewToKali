@@ -1,4 +1,4 @@
-[![](./src/header_.png)](#)
+[![](header.jpg)](#)
 
 > <b>I am passionate about cybersecurity and dedicated to expanding my knowledge through relentless hours of learning. I'm an extremely driven, disciplined, and hardworking individual who is eager to learn and improve in the vast world of IT. I take classes on Udemy during my spare time on a range of topics such as ethical hacking, programming, and professional certifications. I am a competitive person who enjoys the intellectual challenge of overcoming obstacles through creative means.</b>
 
