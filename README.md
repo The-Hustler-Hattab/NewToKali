@@ -1,6 +1,6 @@
 [![](header.jpg)](#)
 
-> <b>I am passionate about cybersecurity and dedicated to expanding my knowledge through relentless hours of learning. I'm an extremely driven, disciplined, and hardworking individual who is eager to learn and improve in the vast world of IT. I take classes on Udemy during my spare time on a range of topics such as ethical hacking, programming, and professional certifications. I am a competitive person who enjoys the intellectual challenge of overcoming obstacles through creative means.</b>
+> <b>My enthusiasm for cybersecurity and software engineering fuels my commitment to continuous learning. I devote countless hours to expanding my understanding in these areas. As a highly motivated, disciplined, and diligent person, I am always keen to broaden my skills and knowledge within the expansive realm of IT. In my free time, I engage in various courses on Udemy, covering subjects like ethical hacking, programming, and professional certifications. My competitive nature thrives on the intellectual stimulation of creatively surmounting challenges.</b>
 
 ## 🛠️ Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
