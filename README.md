@@ -1,4 +1,4 @@
-[![](header.jpg)](#)
+[![](header2.jpg)](#)
 
 > <b>My enthusiasm for cybersecurity and software engineering fuels my commitment to continuous learning. I devote countless hours to expanding my understanding in these areas. As a highly motivated, disciplined, and diligent person, I am always keen to broaden my skills and knowledge within the expansive realm of IT. In my free time, I engage in various courses on Udemy, covering subjects like ethical hacking, programming, and professional certifications. My competitive nature thrives on the intellectual stimulation of creatively surmounting challenges.</b>
 
