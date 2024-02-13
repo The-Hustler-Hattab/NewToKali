@@ -3,22 +3,23 @@
 > <b>My enthusiasm for cybersecurity and software engineering fuels my commitment to continuous learning. I devote countless hours to expanding my understanding in these areas. As a highly motivated, disciplined, and diligent person, I am always keen to broaden my skills and knowledge within the expansive realm of IT. In my free time, I engage in various courses on Udemy, covering subjects like ethical hacking, programming, and professional certifications. My competitive nature thrives on the intellectual stimulation of creatively surmounting challenges.</b>
 
 ## 🛠️ Tech Stack:
-![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-555?style=flat&logo=SpringBoot)
-![C#](https://img.shields.io/badge/-C%23-555?style=flat&logo=c-sharp)
-![.NET](https://img.shields.io/badge/-.NET-555?style=flat&logo=.net)
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=SpringBoot)
+![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/-.NET-000?style=flat&logo=.net)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
 
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-555?style=flat&logo=microsoft-azure)
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=flat&logo=gitlab)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 
 
 
