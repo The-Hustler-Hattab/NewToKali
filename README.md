@@ -19,7 +19,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure)
 ![GCP](https://img.shields.io/badge/-GCP-000?style=flat&logo=google-cloud)
-
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 
